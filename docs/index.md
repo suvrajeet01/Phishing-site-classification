@@ -82,9 +82,7 @@ The columns are :
 ## Data Analysis
 
 ### CountPlots of All columns
-<div style="text-align:center">
-<img src="https://github.com/vishalsiram/Phishing-site-classification/blob/master/docs/images/g1.PNG"/>
-</div>
+![](https://github.com/vishalsiram/Phishing-site-classification/blob/master/docs/images/g2.PNG)
 Now, we observe that the features of all columns using countplots to chechk the counts of each class in particular column.
 <div style="text-align:center">
 <img src="https://github.com/vishalsiram/Phishing-site-classification/blob/master/docs/images/g2.PNG"/>
