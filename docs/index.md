@@ -83,21 +83,21 @@ The columns are :
 
 ### CountPlots of All columns
 <div style="text-align:center">
-<img src="./images/g1.png"/>
+<img src="https://github.com/vishalsiram/Phishing-site-classification/blob/master/docs/images/g1.PNG"/>
 </div>
 Now, we observe that the features of all columns using countplots to chechk the counts of each class in particular column.
 <div style="text-align:center">
-<img src="./images/g2.png"/>
+<img src="https://github.com/vishalsiram/Phishing-site-classification/blob/master/docs/images/g2.PNG"/>
 </div>
 ### violinplot of all columns
 <div style="text-align:center">
-<img src="./images/g3.png"/>
+<img src="https://github.com/vishalsiram/Phishing-site-classification/blob/master/docs/images/g3.PNG"/>
 </div>
 
 <div style="text-align:center">
-<img src="./images/g4.png"/>
+<img src="https://github.com/vishalsiram/Phishing-site-classification/blob/master/docs/images/g4.PNG"/>
 </div>
 ### Barplot of Target Column
 <div style="text-align:center">
-<img src="./images/result.png"/>
+<img src="https://github.com/vishalsiram/Phishing-site-classification/blob/master/docs/images/result.PNG"/>
 </div>
