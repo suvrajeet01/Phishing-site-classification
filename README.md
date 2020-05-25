@@ -1,3 +1,0 @@
-# Phishing-site-classification
-
-Blog 
